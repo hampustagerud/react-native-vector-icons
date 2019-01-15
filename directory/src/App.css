@@ -1,9 +1,4 @@
 @font-face {
-  font-family: 'AntDesign';
-  src: url('../../Fonts/AntDesign.ttf') format('truetype');
-}
-
-@font-face {
   font-family: 'Entypo';
   src: url('../../Fonts/Entypo.ttf') format('truetype');
 }
@@ -73,7 +68,7 @@
 }
 
 .Header-Container {
-  background-color: #23527c;
+  background-color: #23527C;
   padding: 10px 10px 10px 10px;
   width: 100%;
 }
@@ -93,7 +88,7 @@
 }
 
 .Search-Container {
-  background-color: #3e3e3e;
+  background-color: #3E3E3E;
   padding: 10px 10px 10px 10px;
   width: 100%;
 }
@@ -107,6 +102,7 @@
 }
 
 .Search-Icon-Container {
+
 }
 
 .Search-Icon {
@@ -148,7 +144,7 @@
   width: 100px;
   display: inline-block;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: rgba(0,0,0,0.02);
   border-radius: 3px;
   padding: 20px;
   margin-right: 10px;
